@@ -1,0 +1,5 @@
+binchat:
+  server:
+    port: 8889
+    ws: /ws
+    ssl: true
